@@ -17,6 +17,7 @@
 * https://www.callicoder.com/java-locks-and-atomic-variables-tutorial/
 * https://crunchify.com/what-is-lock-unlock-reentrantlock-trylock-and-how-its-different-from-synchronized-block-in-java/
 * http://codingjunkie.net/striped-concurrency/
+* https://docs.oracle.com/javase/tutorial/essential/concurrency/locksync.html
 
 ## Reflection
 * https://github.com/jOOQ/jOOR
