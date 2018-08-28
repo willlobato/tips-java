@@ -23,4 +23,4 @@
 * https://github.com/jOOQ/jOOR
 
 ## Spring Batch
-https://github.com/spring-projects/spring-batch/tree/master/spring-batch-samples
+* https://github.com/spring-projects/spring-batch/tree/master/spring-batch-samples
