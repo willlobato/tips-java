@@ -26,4 +26,4 @@
 * https://github.com/spring-projects/spring-batch/tree/master/spring-batch-samples
 
 ## Spring - Best Practices
-https://dzone.com/articles/spring-di-patterns-the-good-the-bad-and-the-ugly
+* https://dzone.com/articles/spring-di-patterns-the-good-the-bad-and-the-ugly
