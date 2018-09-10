@@ -27,3 +27,4 @@
 
 ## Spring - Best Practices
 * https://dzone.com/articles/spring-di-patterns-the-good-the-bad-and-the-ugly
+* https://www.vojtechruzicka.com/field-dependency-injection-considered-harmful/
