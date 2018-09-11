@@ -28,3 +28,10 @@
 ## Spring - Best Practices
 * https://dzone.com/articles/spring-di-patterns-the-good-the-bad-and-the-ugly
 * https://www.vojtechruzicka.com/field-dependency-injection-considered-harmful/
+
+
+## TO SEE
+* https://github.com/sindresorhus/awesome
+* https://github.com/dictcp/awesome-git
+* https://www.slant.co/improve/topics/15140/~dotfiles-manager 
+* https://github.com/webpro/awesome-dotfiles#tools
