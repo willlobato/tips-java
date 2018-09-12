@@ -29,6 +29,9 @@
 * https://dzone.com/articles/spring-di-patterns-the-good-the-bad-and-the-ugly
 * https://www.vojtechruzicka.com/field-dependency-injection-considered-harmful/
 
+## Gradle
+* https://blog.gradle.org/maven-pom-profiles
+* https://www.credera.com/blog/technology-insights/java/gradle-profiles-for-multi-project-spring-boot-applications/
 
 ## TO SEE
 * https://github.com/sindresorhus/awesome
