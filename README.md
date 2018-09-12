@@ -41,3 +41,7 @@
 
 ## Linux
 * https://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/
+
+## Proxy
+* http://cntlm.sourceforge.net/
+* http://softwarelivre.org/gutocarvalho/blog/cntlm-uma-solucao-rapida-e-elegante?lang=es
