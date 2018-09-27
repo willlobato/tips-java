@@ -45,3 +45,7 @@
 ## Proxy
 * http://cntlm.sourceforge.net/
 * http://softwarelivre.org/gutocarvalho/blog/cntlm-uma-solucao-rapida-e-elegante?lang=es
+
+## Exception Handler
+https://nordicapis.com/best-practices-api-error-handling/
+https://docs.microsoft.com/en-us/rest/api/storageservices/common-rest-api-error-codes
