@@ -49,3 +49,6 @@
 ## Exception Handler
 * https://nordicapis.com/best-practices-api-error-handling/
 * https://docs.microsoft.com/en-us/rest/api/storageservices/common-rest-api-error-codes
+
+## Projects
+* https://github.com/feh-wilinando/fj91-arq7909
