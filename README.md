@@ -39,11 +39,6 @@
 * https://www.slant.co/improve/topics/15140/~dotfiles-manager 
 * https://github.com/webpro/awesome-dotfiles#tools
 
-## TO SEE RXJAVA
-* https://medium.com/platform-engineer/web-api-design-35df8167460
-* https://dzone.com/articles/deal-with-hot-observables-in-a-web-ui
-* https://github.com/ReactiveX/RxJava
-
 ## Linux
 * https://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/
 
@@ -57,3 +52,16 @@
 
 ## Projects
 * https://github.com/feh-wilinando/fj91-arq7909
+
+## TO SEE RXJAVA
+* https://medium.com/platform-engineer/web-api-design-35df8167460
+* https://dzone.com/articles/deal-with-hot-observables-in-a-web-ui
+* https://github.com/ReactiveX/RxJava
+* https://dzone.com/articles/server-sent-events-with-rxjava-and-sseemitter <------------
+* https://rmannibucau.metawerx.net/post/reactive-websockets-rxjava
+* https://www.baeldung.com/spring-5-reactive-websockets
+* https://www.nurkiewicz.com/2015/07/server-sent-events-with-rxjava-and.html
+* https://www.baeldung.com/websockets-spring
+* https://github.com/sockjs/sockjs-protocol
+* https://medium.com/trainingcenter/sincronizando-chamadas-restful-com-rxjava-efe3c4549d5f
+* https://www.html5rocks.com/en/tutorials/eventsource/basics/
