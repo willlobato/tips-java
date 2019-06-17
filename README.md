@@ -39,6 +39,11 @@
 * https://www.slant.co/improve/topics/15140/~dotfiles-manager 
 * https://github.com/webpro/awesome-dotfiles#tools
 
+## TO SEE RXJAVA
+* https://medium.com/platform-engineer/web-api-design-35df8167460
+* https://dzone.com/articles/deal-with-hot-observables-in-a-web-ui
+* https://github.com/ReactiveX/RxJava
+
 ## Linux
 * https://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/
 
