@@ -65,3 +65,7 @@
 * https://github.com/sockjs/sockjs-protocol
 * https://medium.com/trainingcenter/sincronizando-chamadas-restful-com-rxjava-efe3c4549d5f
 * https://www.html5rocks.com/en/tutorials/eventsource/basics/
+
+## WEBSOCKET
+* https://dzone.com/articles/easy-messaging-stomp-over
+* https://dzone.com/articles/build-a-chat-application-using-spring-boot-websock
