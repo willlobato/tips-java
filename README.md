@@ -39,6 +39,9 @@
 * https://www.slant.co/improve/topics/15140/~dotfiles-manager 
 * https://github.com/webpro/awesome-dotfiles#tools
 
+## PATTERN MICROSERVICES
+* https://dzone.com/articles/patterns-for-microservices-sync-vs-async
+
 ## Linux
 * https://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/
 
