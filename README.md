@@ -39,9 +39,6 @@
 * https://www.slant.co/improve/topics/15140/~dotfiles-manager 
 * https://github.com/webpro/awesome-dotfiles#tools
 
-## PATTERN MICROSERVICES
-* https://dzone.com/articles/patterns-for-microservices-sync-vs-async
-
 ## Linux
 * https://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/
 
@@ -72,3 +69,6 @@
 ## WEBSOCKET
 * https://dzone.com/articles/easy-messaging-stomp-over
 * https://dzone.com/articles/build-a-chat-application-using-spring-boot-websock
+
+## PATTERN MICROSERVICES
+* https://dzone.com/articles/patterns-for-microservices-sync-vs-async
