@@ -72,3 +72,7 @@
 
 ## PATTERN MICROSERVICES
 * https://dzone.com/articles/patterns-for-microservices-sync-vs-async
+
+## Batch Insert JDBC Template Spring 
+* https://www.baeldung.com/spring-data-jpa-batch-inserts
+* https://www.mkyong.com/spring/spring-jdbctemplate-batchupdate-example/
